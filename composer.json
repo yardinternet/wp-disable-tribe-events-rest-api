@@ -1,0 +1,15 @@
+{
+  "name": "yard/disable-tribe-events-rest-api",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "description":
+    "Disables the Tribe Events REST API in WordPress",
+  "homepage": "https://www.yard.nl/",
+  "keywords": ["wordpress"],
+  "support": {
+    "issues": "https://github.com/yardinternet/disable-tribe-events-rest-api/issues"
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
